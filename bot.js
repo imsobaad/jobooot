@@ -30,7 +30,7 @@ const sql = require("sqlite");
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Use *help`,"http://twitch.tv/S-F")
+client.user.setGame(`*bc`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
